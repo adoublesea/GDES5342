@@ -1,0 +1,243 @@
+/* this is where all of your CSS styles go */
+
+
+body{
+	background: black;
+	height: 600px;
+}
+
+#mainflag{
+	width: 600px;
+	height: 400px;
+	background: white;
+	position: relative;
+	margin-left: 25%;
+	margin-top: 100px;
+	
+}
+
+#left{
+	width: 160px;
+	height: 400px;
+	background: red;
+	float: left;
+	
+}
+
+#middle{
+	width: 280px;
+	height: 400px;
+	background: white;
+	float: left;
+}
+
+#right{
+	width: 160px;
+	height: 400px;
+	background: red;
+	float: left;
+}
+
+#leaf{
+	margin-top: 80px;
+}
+
+#leaf1{
+	width: 0px;
+	height: 0px;
+	border-right: 60px solid transparent;
+	border-left: 60px solid transparent;
+	border-bottom: 200px solid red;
+	position: relative;
+	left: 50%;
+	margin-left: -60px;
+}
+
+#leaf2{
+	width: 0px;
+	height: 0px;
+	border-right: 60px solid transparent;
+	border-left: 60px solid transparent;	
+	border-bottom: 95px solid red;
+	position: relative;
+	left: 35px;
+	top: -110px;
+	
+	-webkit-transform: rotate(30deg);
+	-ms-transform: rotate(30deg);
+	-moz-transform: rotate(30deg);
+	
+}
+
+#leaf3{
+	width: 0px;
+	height: 0px;
+	border-right: 60px solid transparent;
+	border-left: 60px solid transparent;
+	border-bottom: 95px solid red;
+	position: relative;
+	left: 125px;
+	top: -205px;
+	
+	-webkit-transform: rotate(-30deg);
+	-ms-transform: rotate(-30deg);
+	-moz-transform: rotate(-30deg);
+	
+}
+
+#leaf4{
+	width: 0px;
+	height: 0px;
+	border-right: 40px solid transparent;
+	border-left: 40px solid transparent;
+	border-bottom: 85px solid red;
+	position: relative;
+	left: 125px;
+	top: -380px;
+	
+	-webkit-transform: rotate(40deg);
+	-ms-transform: rotate(40deg);
+	-moz-transform: rotate(40deg);
+	
+}
+
+#leaf5{
+	width: 0px;
+	height: 0px;
+	border-right: 40px solid transparent;
+	border-left: 40px solid transparent;
+	border-bottom: 85px solid red;
+	position: relative;
+	left: 75px;
+	top: -465px;
+	
+	-webkit-transform: rotate(-40deg);
+	-ms-transform: rotate(-40deg);
+	-moz-transform: rotate(-40deg);
+	
+}
+
+#leaf6{
+	width: 0px;
+	height: 0px;
+	border-right: 40px solid transparent;
+	border-left: 40px solid transparent;
+	border-bottom: 85px solid red;
+	position: relative;
+	left: 100px;
+	top: -585px;
+	
+
+	
+}
+
+#leaf7{
+	width: 0px;
+	height: 0px;
+	border-right: 30px solid transparent;
+	border-left: 30px solid transparent;
+	border-bottom: 50px solid red;
+	position: relative;
+	left: 50px;
+	top: -580px;
+	
+	-webkit-transform: rotate(-10deg);
+	-ms-transform: rotate(-10deg);
+	-moz-transform: rotate(-10deg);	
+	
+}
+
+#leaf8{
+	width: 0px;
+	height: 0px;
+	border-right: 40px solid transparent;
+	border-left: 40px solid transparent;
+	border-bottom: 80px solid red;
+	position: relative;
+	left: 10px;
+	top: -625px;
+
+	-webkit-transform: rotate(-50deg);
+	-ms-transform: rotate(-50deg);
+	-moz-transform: rotate(-50deg);
+	
+}
+
+
+#leaf9{
+	width: 0px;
+	height: 0px;
+	border-right: 30px solid transparent;
+	border-left: 30px solid transparent;
+	border-bottom: 50px solid red;
+	position: relative;
+	left: 170px;
+	top: -710px;
+	
+	-webkit-transform: rotate(10deg);
+	-ms-transform: rotate(10deg);
+	-moz-transform: rotate(10deg);	
+	
+}
+
+#leaf10{
+	width: 0px;
+	height: 0px;
+	border-right: 40px solid transparent;
+	border-left: 40px solid transparent;
+	border-bottom: 80px solid red;
+	position: relative;
+	left: 185px;
+	top: -755px;
+
+	-webkit-transform: rotate(50deg);
+	-ms-transform: rotate(50deg);
+	-moz-transform: rotate(50deg);
+	
+}
+
+#leaf11{
+	width: 0px;
+	height: 0px;
+	border-right: 20px solid transparent;
+	border-left: 90px solid transparent;
+	border-bottom: 30px solid red;
+	position: relative;
+	left: 105px;
+	top: -725px;
+
+	-webkit-transform: rotate(10deg);
+	-ms-transform: rotate(10deg);
+	-moz-transform: rotate(10deg);
+	
+}
+
+#leaf12{
+	width: 0px;
+	height: 0px;
+	border-right: 90px solid transparent;
+	border-left: 20px solid transparent;
+	border-bottom: 30px solid red;
+	position: relative;
+	left: 65px;
+	top: -755px;
+
+	-webkit-transform: rotate(-10deg);
+	-ms-transform: rotate(-10deg);
+	-moz-transform: rotate(-10deg);
+	
+}
+
+#leaf13{
+	width: 0px;
+	height: 0px;
+	border-right: 5px solid transparent;
+	border-left: 5px solid transparent;
+	border-bottom: 50px solid red;
+	width: 7px;
+	position: relative;
+	left: 130px;
+	top: -760px;
+
+	
+}
