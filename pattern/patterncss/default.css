@@ -1,0 +1,287 @@
+/* this is where all of your CSS styles go */
+
+#main{
+	width: 800px;
+	height: 800px;
+	position: absolute;
+	top: 40px;
+	left: 200px;
+	background: none;
+	overflow: hidden;
+}
+
+.circlea{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	background: #04A6DB;
+	z-index: 2;
+	
+}
+
+.circleab{
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+	background: black;
+	z-index: 10;
+	
+}
+
+.circleb{
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	background: green;
+	z-index: 1;
+	
+}
+
+#circlea1{
+	position: absolute;
+	top: 10px;
+	left: 50px;
+}
+
+#circlea2{
+	position: absolute;
+	top: 10px;
+	left: 0px;
+}
+
+#circlea3{
+	position: absolute;
+	top: 10px;
+	left: 300px;
+}
+
+#circlea4{
+	position: absolute;
+	top: 10px;
+	left: 250px;
+}
+
+
+#circlea5{
+	position: absolute;
+	top: 10px;
+	left: 550px;
+}
+
+
+#circlea6{
+	position: absolute;
+	top: 10px;
+	left: 500px;
+}
+
+#circlea21{
+	position: absolute;
+	top: 220px;
+	left: -110px;
+}
+
+#circlea7{
+	position: absolute;
+	top: 220px;
+	left: 160px;
+}
+
+#circlea8{
+	position: absolute;
+	top: 10px;
+	left: 740px;
+}
+
+#circlea9{
+	position: absolute;
+	top: 220px;
+	left: 430px;
+}
+
+#circlea23{
+	position: absolute;
+	top: 220px;
+	left: 700px;
+}
+
+#circlea10{
+	position: absolute;
+	top: 230px;
+	left: 100px;
+}
+
+#circlea11{
+	position: absolute;
+	top: 440px;
+	left: 50px;
+}
+
+#circlea12{
+	position: absolute;
+	top: 230px;
+	left: 370px;
+}
+
+#circlea13{
+	position: absolute;
+	top: 440px;
+	left: 300px;
+}
+
+#circlea14{
+	position: absolute;
+	top: 230px;
+	left: 640px;
+}
+
+#circlea15{
+	position: absolute;
+	top: 440px;
+	left: 550px;
+}
+
+#circlea16{
+	position: absolute;
+	top: 440px;
+	left: -20px;
+}
+
+#circlea25{
+	position: absolute;
+	top: 660px;
+	left: -110px;
+}
+
+#circlea17{
+	position: absolute;
+	top: 660px;
+	left: 140px;
+}
+
+#circlea18{
+	position: absolute;
+	top: 440px;
+	left: 250px;
+}
+
+#circlea19{
+	position: absolute;
+	top: 660px;
+	left: 430px;
+}
+
+#circlea20{
+	position: absolute;
+	top: 440px;
+	left: 500px;
+}
+
+#circlea22{
+	position: absolute;
+	top: 440px;
+	left: 750px;
+}
+
+#circlea24{
+	position: absolute;
+	top: 660px;
+	left: 90px;
+}
+
+#circlea26{
+	position: absolute;
+	top: 660px;
+	left: 360px;
+}
+
+#circlea27{
+	position: absolute;
+	top: 660px;
+	left: 700px;
+}
+
+#circlea28{
+	position: absolute;
+	top: 660px;
+	left: 640px;
+}
+
+#circlea29{
+	position: absolute;
+	top: 800px;
+	left: 520px;
+}
+
+#circlea30{
+	position: absolute;
+	top: 800px;
+	left: 700px;
+}
+
+#circleb1{
+	position: absolute;
+	top: 180px;
+	left: 10px;
+}
+
+#circleb2{
+	position: absolute;
+	top: 180px;
+	left: 260px;
+}
+
+#circleb3{
+	position: absolute;
+	top: 180px;
+	left: 510px;
+}
+
+#circleb4{
+	position: absolute;
+	top: 180px;
+	left: 760px;
+}
+
+
+#circleb5{
+	position: absolute;
+	top: 400px;
+	left: 115px;
+}
+
+#circleb6{
+	position: absolute;
+	top: 400px;
+	left: 385px;
+}
+
+#circleb7{
+	position: absolute;
+	top: 400px;
+	left: 655px;
+}
+
+#circleb8{
+	position: absolute;
+	top: 620px;
+	left: 10px;
+}
+
+#circleb9{
+	position: absolute;
+	top: 620px;
+	left: 260px;
+}
+
+#circleb10{
+	position: absolute;
+	top: 620px;
+	left: 510px;
+}
+
+#circleb11{
+	position: absolute;
+	top: 620px;
+	left: 760px;
+}

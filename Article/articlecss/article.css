@@ -1,0 +1,105 @@
+@font-face{
+	font-family: alegreyasc;
+	src:url(..//fonts/AlegreyaSansSC-Light.otf);
+
+}
+
+#whole{
+	width: 800px;
+	margin: auto;
+	
+	
+}
+
+
+h1{
+	font-family: alegreyasc;
+	text-align: right;
+	width: 500px;
+	margin-left: 300px;
+	margin-top: 100px;
+	margin-bottom: 0px;
+	
+}
+
+
+#byline{
+	font-family: alegreyasc;
+	text-align: right;
+	margin-top: 0px;
+}
+
+#music{
+	width: 200px;
+	height: 40px;
+	margin-left: 445px;
+}
+
+.note{
+	width: 7px;
+	height: 5px;
+	border-radius: 100%;
+	background: #2D2E2E;
+	padding: none;
+	position: relative;
+	margin-left: 4px;
+	float: left;
+}
+
+.note:first-child{
+	margin-left: 80px;
+}
+
+.stem{
+	width: 2px;
+	height: 20px;
+	background: #2D2E2E;
+	padding: none;
+	position: relative;
+	margin-left: -7px;
+	top: 1px;
+	float: left;
+}
+
+.main{
+	font-family: Georgia;
+	font-size: 1em;
+	width: 500px;
+	margin-left: 300px;
+	
+	
+}
+
+
+.main + .main{
+	text-indent: 20px;
+}
+
+.main:last-child{
+	text-indent: 0px;
+	font-size: 0.75em; 
+}
+
+.italic{
+	font-style: italic;
+}
+
+.link{
+	background: #575757;
+	border-radius: 5%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-decoration: none;
+	
+	
+}
+
+.link:hover {
+	background: #3285C6;
+}
+
+.link:visited {
+	text-decoraton: none;
+}
