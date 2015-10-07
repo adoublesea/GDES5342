@@ -1,0 +1,235 @@
+/* this is where all of your CSS styles go */
+
+
+@font-face{
+	font-family: klinicli;
+	src: url("../fonts/KlinicSlabLightIt.otf");
+}
+
+body{
+	background: #FFFFFF;
+}
+
+#main{
+	width: 960px;
+	height: auto;
+	background: none;
+	margin: auto;
+	margin-top: 10px;
+	color: #FC722D;
+	
+	
+}
+
+#prompt{
+	font-family: klinicli;
+	font-size: 2em;
+	position: relative;
+	left: 300px;
+	top: 10px;
+}
+
+#one{
+	width:20px;
+	height:80px;
+	background: #47B2D6;
+	position: relative;
+	left: 70px;
+	top: 100px;
+	float: left;
+}
+
+#two{
+	width: 10px;
+	height: 200px;
+	background: #066E91;
+	position: relative;
+	left: 75px;
+	top: 40px;
+	float: left;
+}
+
+#three{
+	width: 15px;
+	height: 200px;
+	background: #11BAF2;
+	position: relative;
+	left: 80px;
+	top: 100px;
+	float: left;
+}
+
+#four{
+	width: 40px;
+	height: 300px;
+	background: #2F93B5;
+	position: relative;
+	left: 85px;
+	top: 20px;
+	float: left;
+}
+
+#five{
+	width: 8px;
+	height: 500px;
+	background: #51D1FC;
+	position: relative;
+	left: 90px;
+	top: 60px;
+	float: left;
+}
+
+#six{
+	width: 60px;
+	height: 200px;
+	background: #366778;
+	position: relative;
+	left:95px;
+	top: 90px;
+	float: left;
+}
+
+#seven{
+	width: 45px;
+	height: 150px;
+	background: #0984AD;
+	position: relative;
+	left: 100px;
+	top: 200px;
+	float: left;
+}
+
+#eight{
+	width: 12px;
+	height:400px;
+	background: #87D9F5;
+	position: relative;
+	left: 105px;
+	top: 80px;
+	float: left;
+}
+
+#nine{
+	width: 20px;
+	height: 190px;
+	background: #028FCC;
+	position: relative;
+	left: 110px;
+	top: 105px;
+	float: left;
+}
+
+#ten{
+	width: 110px;
+	height: 350px;
+	background: #3B95F5;
+	position: relative;
+	left: 115px;
+	top: 40px;
+	float: left;
+}
+
+
+#eleven{
+	width: 50px;
+	height: 175px;
+	background: #66BADE;
+	position: relative;
+	left: 120px;
+	top: 80px;
+	float: left;
+}
+
+#twelve{
+	width: 60px;
+	height: 200px;
+	background: #5DADB3;
+	position: relative;
+	left: 125px;
+	top: 200px;
+	float: left;
+}
+
+#thirteen{
+	width: 5px;
+	height: 275px;
+	background: #1E80E8;
+	position: relative;
+	left: 130px;
+	top: 100px;
+	float: left;
+}
+
+#fourteen{
+	width: 25px;
+	height: 135px;
+	background: #2850A6;
+	position: relative;
+	left: 135px;
+	top: 115px;
+	float: left;
+}
+
+#fifteen{
+	width: 52px;
+	height: 320px;
+	background: #0876BF;
+	position: relative;
+	left: 140px;
+	top: 10px;
+	float: left;
+}
+
+#sixteen{
+	width: 40px;
+	height: 300px;
+	background: #90C3D4;
+	position: relative;
+	left: 145px;
+	top: 25px;
+	float: left;
+}
+
+#seventeen{
+	width: 10px;
+	height: 350px;
+	background: #5392BD;
+	position: relative;
+	left: 150px;
+	top: 45px;
+	float: left;
+}
+
+#eighteen{
+	width: 28px;
+	height: 203px;
+	background: #33A7F5;
+	position: relative;
+	left: 155px;
+	top: 138px;
+	float: left;
+}
+
+#nineteen{
+	width: 35px;
+	height: 495px;
+	background: #458EAD;
+	position: relative;
+	left: 160px;
+	top: 80px;
+	float: left;
+}
+
+#twenty{
+	width: 50px;
+	height: 408px;
+	background: #82E0FA;
+	position: relative;
+	left: 165px;
+	top: 130px;
+	float: left;
+}
+
+
+
+
